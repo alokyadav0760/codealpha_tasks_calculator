@@ -1,0 +1,1 @@
+This project is a simple calculator using HTML,CSS and javascript . this is the start of my web development journey and i like to share it with you all.you can do just simple caculations on the calculator and its interface is also very good.
